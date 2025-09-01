@@ -1,0 +1,12 @@
+Métrica,Valor
+Total de filas,928
+Total de columnas,5
+Países únicos,2
+Rango de fechas,2021-01-20 a 2023-12-29
+Min new_cases,230808.0
+Max new_cases,6365994.0
+Promedio new_cases,2059872.03
+Valores faltantes new_cases (%),0.0
+Valores faltantes people_vaccinated (%),0.0
+Población Ecuador (última),66.94
+Población Colombia (última),44.22
